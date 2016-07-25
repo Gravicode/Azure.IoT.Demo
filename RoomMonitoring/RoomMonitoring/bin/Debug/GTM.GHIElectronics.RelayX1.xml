@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GTM.GHIElectronics.RelayX1</name>
+    </assembly>
+    <members>
+        <member name="T:Gadgeteer.Modules.GHIElectronics.RelayX1">
+            <summary>A RelayX1 module for Microsoft .NET Gadgeteer</summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.RelayX1.#ctor(System.Int32)">
+            <summary>Constructs a new instance.</summary>
+            <param name="socketNumber">The socket that this module is plugged in to.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.RelayX1.TurnOn">
+            <summary>Turns the relay on.</summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.RelayX1.TurnOff">
+            <summary>Turns the relay off.</summary>
+        </member>
+        <member name="P:Gadgeteer.Modules.GHIElectronics.RelayX1.Enabled">
+            <summary>Whether the relay is on or off.</summary>
+        </member>
+    </members>
+</doc>
