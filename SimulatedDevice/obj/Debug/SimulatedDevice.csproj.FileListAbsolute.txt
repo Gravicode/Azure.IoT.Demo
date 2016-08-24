@@ -79,3 +79,6 @@ E:\Experiment\IoT-Azure\SimulatedDevice\bin\Debug\zh-Hant\System.Spatial.resourc
 E:\Experiment\IoT-Azure\SimulatedDevice\obj\Debug\SimulatedDevice.csprojResolveAssemblyReference.cache
 E:\Experiment\IoT-Azure\SimulatedDevice\obj\Debug\SimulatedDevice.exe
 E:\Experiment\IoT-Azure\SimulatedDevice\obj\Debug\SimulatedDevice.pdb
+E:\Experiment\Azure.IoT.Demo\SimulatedDevice\bin\Debug\SimulatedDevice.exe.config
+E:\Experiment\Azure.IoT.Demo\SimulatedDevice\obj\Debug\SimulatedDevice.exe
+E:\Experiment\Azure.IoT.Demo\SimulatedDevice\obj\Debug\SimulatedDevice.pdb

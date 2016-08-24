@@ -1,0 +1,12 @@
+E:\Experiment\Azure.IoT.Demo\SimulatedDirectMqtt\bin\Debug\SimulatedDirectMqtt.exe.config
+E:\Experiment\Azure.IoT.Demo\SimulatedDirectMqtt\bin\Debug\SimulatedDirectMqtt.exe
+E:\Experiment\Azure.IoT.Demo\SimulatedDirectMqtt\bin\Debug\SimulatedDirectMqtt.pdb
+E:\Experiment\Azure.IoT.Demo\SimulatedDirectMqtt\bin\Debug\M2Mqtt.Net.dll
+E:\Experiment\Azure.IoT.Demo\SimulatedDirectMqtt\bin\Debug\Newtonsoft.Json.dll
+E:\Experiment\Azure.IoT.Demo\SimulatedDirectMqtt\bin\Debug\M2Mqtt.Net.pdb
+E:\Experiment\Azure.IoT.Demo\SimulatedDirectMqtt\bin\Debug\Newtonsoft.Json.xml
+E:\Experiment\Azure.IoT.Demo\SimulatedDirectMqtt\obj\Debug\SimulatedDirectMqtt.Resource1.resources
+E:\Experiment\Azure.IoT.Demo\SimulatedDirectMqtt\obj\Debug\SimulatedDirectMqtt.csproj.GenerateResource.Cache
+E:\Experiment\Azure.IoT.Demo\SimulatedDirectMqtt\obj\Debug\SimulatedDirectMqtt.exe
+E:\Experiment\Azure.IoT.Demo\SimulatedDirectMqtt\obj\Debug\SimulatedDirectMqtt.pdb
+E:\Experiment\Azure.IoT.Demo\SimulatedDirectMqtt\obj\Debug\SimulatedDirectMqtt.csprojResolveAssemblyReference.cache

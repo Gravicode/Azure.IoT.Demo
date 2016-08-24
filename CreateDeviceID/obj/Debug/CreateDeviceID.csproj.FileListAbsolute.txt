@@ -19,3 +19,6 @@ E:\Experiment\IoT-Azure\CreateDeviceID\bin\Debug\Validation.xml
 E:\Experiment\IoT-Azure\CreateDeviceID\obj\Debug\CreateDeviceID.csprojResolveAssemblyReference.cache
 E:\Experiment\IoT-Azure\CreateDeviceID\obj\Debug\CreateDeviceID.exe
 E:\Experiment\IoT-Azure\CreateDeviceID\obj\Debug\CreateDeviceID.pdb
+E:\Experiment\Azure.IoT.Demo\CreateDeviceID\bin\Debug\CreateDeviceID.exe.config
+E:\Experiment\Azure.IoT.Demo\CreateDeviceID\obj\Debug\CreateDeviceID.exe
+E:\Experiment\Azure.IoT.Demo\CreateDeviceID\obj\Debug\CreateDeviceID.pdb

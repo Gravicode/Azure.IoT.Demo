@@ -20,7 +20,15 @@ using Microsoft.SPOT.Time;
 using Microsoft.SPOT.Hardware;
 using System.Net;
 using System.Security.Cryptography.X509Certificates;
-
+namespace System.Diagnostics
+{
+    public enum DebuggerBrowsableState
+    {
+        Never,
+        Collapsed,
+        RootHidden
+    }
+}
 namespace RoomMonitoringMqtt
 {
     public partial class Program
@@ -32,7 +40,9 @@ namespace RoomMonitoringMqtt
         const string DeviceId = "Room-Sensor";
         const string MQTT_BROKER_ADDRESS = "iot-gateway.azure-devices.net";
         const string Username = "iot-gateway.azure-devices.net/Room-Sensor";
+        //const string Pass = "SharedAccessSignature sr=iot-gateway.azure-devices.net%2fdevices%2fRoom-Sensor&sig=5Ae9tHQVmFeXvptiCt72D9z%2fY3nbvLPng9KcMlgrTnU%3d&se=1500982158&skn=iothubowner";
         const string Pass = "SharedAccessSignature sr=iot-gateway.azure-devices.net%2fdevices%2fRoom-Sensor&sig=5Ae9tHQVmFeXvptiCt72D9z%2fY3nbvLPng9KcMlgrTnU%3d&se=1500982158&skn=iothubowner";
+
         const string PublishedTopic = "devices/" + DeviceId + "/messages/events/";
         void SubscribeMessage()
         {

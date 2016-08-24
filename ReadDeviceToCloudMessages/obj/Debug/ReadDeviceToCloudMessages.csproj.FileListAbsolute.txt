@@ -6,3 +6,6 @@ E:\Experiment\IoT-Azure\ReadDeviceToCloudMessages\bin\Debug\Microsoft.ServiceBus
 E:\Experiment\IoT-Azure\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.csprojResolveAssemblyReference.cache
 E:\Experiment\IoT-Azure\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
 E:\Experiment\IoT-Azure\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb
+E:\Experiment\Azure.IoT.Demo\ReadDeviceToCloudMessages\bin\Debug\ReadDeviceToCloudMessages.exe.config
+E:\Experiment\Azure.IoT.Demo\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.exe
+E:\Experiment\Azure.IoT.Demo\ReadDeviceToCloudMessages\obj\Debug\ReadDeviceToCloudMessages.pdb
